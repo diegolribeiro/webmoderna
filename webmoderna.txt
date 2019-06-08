@@ -1,6 +1,6 @@
 WEB MODERNA 34SCJ - SABADO, 08/06/2019
 
-F�RUM, D�VIDAS E SUGEST�ES (AN�NIMAS OU N�O)
+F�RUM, D�VIDAS E SUGEST�ES (AN�NIMAS OU N�O)
 https://forms.gle/fNbKJT8CW7UFiNXv7 
 
 
@@ -14,3 +14,130 @@ git push -u origin master
 
 git remote add origin https://github.com/diegolribeiro/webmoderna.git
 git push -u origin master
+
+
+Programa do git
+git extesion
+
+
+WEB MODERNA 34SCJ - SABADO, 08/06/2019
+
+FÓRUM, DÚVIDAS E SUGESTÕES (ANÔNIMAS OU NÃO)
+https://forms.gle/fNbKJT8CW7UFiNXv7
+
+Material Introdução WEB MODERNA com animações:
+https://docs.google.com/presentation/d/e/2PACX-1vR5F971OkuBcLhF4n0ksjtrupvAMDgtHeaPXGbagmAi3EddSMqTirWpKV4zzzUzFTqX0sGxNQFgT6G-/pub?start=false&loop=false&delayms=3000
+
+ENVIAR RESENHA PARA: vitoriano08@gmail.com até 11/06
+
+Resumo:
+Web Moderna
+Blogger 1999 Web 2.0
+Internet de mão dupla posta informações e recebe feedbacks
+Web 2.0 consolida com as rede sociais
+P2P napster 
+
+Web Moderna
+Sites resposinvos
+SPA
+Progressive
+Web Apps
+Mobile Apps
+
+Procolo HTTP define as regras de comunicação entre cliente e Servidor
+www, dns, ip
+
+Quando cria o http é criado também o consórcio.
+O navegador está preparado para entender o http (mosaic o primeiro)
+Front-End (cliente)
+Back-End(API e Servidor)
+Métodos HTTP (Get, Post, Delete, Options)
+TCP/IP
+URK / URI
+O HTTP2 tem um gerenciamento de conexão melhor e já incorpora a segurança
+URL representa um recurso na internet
+MimeTye tipo de dados que será trafegado (texto, Json, Imagem)
+Cabeçalho do http possui MimeType, URL.
+Cookies pequenos códigos que são salvo na maquina cliente e muito utilizado pelo navegador
+Código de status - resposta na comunicação
+
+Código de status
+1xx
+2xx
+3xx
+4xx
+5xx
+
+Apresentação do console 
+Tipos de Front-End
+
+Aplicações para celulares
+Artigos - Blog-Post (Artigo Medium)
+Noticias
+SPA Single Page Application (há muito mas interação do que ficar navegando em várias páginas, há um grande indice fidelização)
+Página de produto
+Animadas 
+Paineis de controle (DashBoard)
+Formulários
+Redes Sociais
+
+No interface (comando de voz, experiencia sem contato com o tipo de página)
+
+Linguagens para desenvolvedores de front-end
+XML
+HTML linguagem de marcação
+contempla DOM e TAGs
+
+JavaScript
+JavaScript linguagem Programação
+contempla APIS, Micros serviços, interação
+
+LKinguagem de estilo 
+CSS
+SASS (CSS com lógica, é possível criar variável operadores lógicos, mais dinâmico)
+contempla Fontes, Cores, Virtual DOM
+
+SendBoxes
+CodePen
+CodeSandBox
+
+Sites para publicar 
+heroku
+githubpages
+
+Enhanced performance - Mobile First
+
+Pré-processador, código não nativo para o browser, compila o código e transpila para o navegador utilizar
+
+Google Material degign mais flat
+
+React é uma biblioteca
+Angular é um framework
+
+JAWS -> leitura de tela
+NV Access ->
+WCAG analyze -> analisa a melhor cor e fonte para as pessoas com deficiencia visual (contraste)
+Aria label O atributo aria-labelledby é usado para indicar os IDs de elementos que são os rótulos para o objeto.
+ É usado para estabelecer uma relação entre widgets ou grupos e suas labels. Usuários de tecnologias assistivas como 
+ leitores de telas navegam tipicamente uma página através de TABs entre as áreas da tela. Se uma label não está associada 
+ com um elemento input, widget ou grupo, não será legível por leitor de tela.
+
+Performance 
+EM performance é necessário entender o carregamento dela para identificar o gargalo
+
+Web Workers multithread do navegador
+Image Sprites - Hover Effect
+Assets, tamanho, Compactação 
+converter a imagem em base64
+
+
+Segurança
+CORS cross origin resource sharing (compartilhar recurso com origem cruzada)
+métodos permitidos
+quem pode acessar
+informa o dominio que pode acessar 
+
+Método do options (Cabeçalho do HTTP)
+Options informa os métodos que o servidor aceita
+
+OAuth autenticação via token
