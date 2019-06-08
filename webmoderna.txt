@@ -1,0 +1,16 @@
+WEB MODERNA 34SCJ - SABADO, 08/06/2019
+
+FÓRUM, DÚVIDAS E SUGESTÕES (ANÔNIMAS OU NÃO)
+https://forms.gle/fNbKJT8CW7UFiNXv7 
+
+
+echo "# webmoderna" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/diegolribeiro/webmoderna.git
+git push -u origin master
+
+
+git remote add origin https://github.com/diegolribeiro/webmoderna.git
+git push -u origin master
